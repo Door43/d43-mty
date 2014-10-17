@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mty:home|Door43 (mty)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mty|d43-mty repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mty/archive/master.zip|d43-mty.zip]]
+
+**Recent Changes**
+{{changes>ns = mty}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mty|Ethnologue data]]
+
